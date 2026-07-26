@@ -1,0 +1,8 @@
+[project]
+name = "sint-liquid-mcp"
+version = "0.1.0"
+description = "Liquid Memory — adaptive belief revision MCP server"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+]
