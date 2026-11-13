@@ -1,10 +1,19 @@
+<div align="center">
+
+<img src="docs/banner.svg" alt="sint-liquid-mcp banner" width="1000">
+
 # sint-liquid-mcp
+
+### Liquid Memory — adaptive belief revision MCP server.
 
 [![Release](https://img.shields.io/github/v/release/kostyk348/sint-liquid-mcp?sort=semver&color=blue)](https://github.com/kostyk348/sint-liquid-mcp/releases)
 [![License](https://img.shields.io/badge/license-Apache-2.0-green)](https://github.com/kostyk348/sint-liquid-mcp/blob/main/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/kostyk348/sint-liquid-mcp?branch=main)](https://github.com/kostyk348/sint-liquid-mcp/commits/main)
 
-**Liquid Memory** — adaptive belief revision MCP server.
+</div>
+
+---
+
 
 Instead of append-only memory, Liquid Memory detects contradictions between old and new information, automatically revises beliefs, and maintains a revision chain.
 
